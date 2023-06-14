@@ -75,7 +75,7 @@
     "prettier": "^2.8.8",
     "prettier-eslint": "^15.0.1",
     "rimraf": "^5.0.1",
-    "sinon": "^15.1.0",
+    "sinon": "^15.1.2",
     "semantic-release": "^21.0.5",
     "shelljs": "^0.8.5",
     "stylelint": "^15.7.0",
